@@ -13,10 +13,13 @@ main:
     url: /talks/    
 
     
-  - title: "Portfolio"
+  - title: "For fun"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "News"
     url: /year-archive/
+    
+  - title: "自己紹介"
+    url: /japanase/
     
     
