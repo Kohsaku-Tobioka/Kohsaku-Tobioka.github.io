@@ -8,10 +8,15 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-image: url("../images/image.png");
-  background-size: 100%;
+  // background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;font-size: 16px;
+  background-size: cover; // Cover the entire body
+  background-position: top center; // Center the background image
+  background-repeat: no-repeat; // Do not repeat the image
+  background-attachment: fixed; // Optional: Fixes the background
+
 
   @include breakpoint($medium) {
     font-size: 18px;
