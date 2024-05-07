@@ -3,8 +3,7 @@ layout: archive
 title: "自己紹介"
 permalink: /japanese/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
