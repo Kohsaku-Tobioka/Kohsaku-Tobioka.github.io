@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #50516f;
+        color: #fff;
         background: $primary-color;
       }
 
@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #16293c;
 
   a {
     display: block;
