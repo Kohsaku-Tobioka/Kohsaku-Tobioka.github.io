@@ -23,5 +23,5 @@ Please contact me via email or simply stop by my office 506 KEEN at FSU!
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/fundamental_scales.png)
 

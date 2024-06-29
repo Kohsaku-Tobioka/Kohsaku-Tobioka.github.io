@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Mentoring/Teaching"
-    url: /teaching/    
+  - title: "Mentoring&Teaching"
+    url: /teachmentor/    
 
   - title: "Publications"
     url: /publications/
