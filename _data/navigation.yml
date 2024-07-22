@@ -16,7 +16,7 @@ main:
     url: /forfun/
         
   - title: "News"
-    url: /year-archive/
+    url: /news/
     
   - title: "自己紹介"
     url: /japanese/
