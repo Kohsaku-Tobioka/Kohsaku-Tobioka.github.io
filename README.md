@@ -18,8 +18,8 @@
   - `research.html`: Research ページの記述をする html ファイルで、中身は _research ディレクトリのファイル読み込み
   - `talkmap.html`: To Be Updated
   - `talks.html`: Talks ページの記述をする html ファイルで、中身は _talks ディレクトリのファイル読み込み
-- _posts
-  - News の内容を記述する各ファイル
+- _posts (_news に変えたかったが変更がちょっと大変なのでこのまま)
+  - News の内容を記述する各ファイル 
 - _research
   - Research の内容を記述する各ファイル
 - _talks
