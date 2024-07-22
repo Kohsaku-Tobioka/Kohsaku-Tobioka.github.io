@@ -11,15 +11,12 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
     
   - title: "For fun"
-    url: /portfolio/
+    url: /forfun/
         
   - title: "News"
     url: /year-archive/
     
   - title: "自己紹介"
     url: /japanese/
-    
-    
