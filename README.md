@@ -1,22 +1,33 @@
 
-# Academic Pages
+# Kohsaku Tobioka's Homepage
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-Academic Pages is a Github Pages template for academic websites.
+[https://kohsaku-tobioka.github.io/](https://kohsaku-tobioka.github.io/)
 
+## [WIP] How to update the Homepage
 
-# Getting Started
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
+- _pages
+  - 基本的な構成として `.md` ファイルは HP に表示される内容を直接このファイルだけで記述するもので、`.html` ファイルは該当ディレクトリのファイルを複数個読み込んで表示するためのもの（つまり内容を更新したい場合は `.html` はいじらず該当ディレクトリの中身をいじる）
+  - `about.md`: トップページの内容を記述する markdown ファイル
+  - `cv.md`: CV ページの内容を記述する markdown ファイル
+  - `forfun.md`: For fun ページの内容を記述する markdown ファイル
+  - `japanese.md`: 日本語自己紹介の内容を記述する markdown ファイル
+  - `teachmentor.md`: Mentoring&Teaching ページの内容を記述する markdown ファイル
+  - `news.html`: News ページの記述をする html ファイルで、中身は _posts ディレクトリのファイル読み込み
+  - `research.html`: Research ページの記述をする html ファイルで、中身は _research ディレクトリのファイル読み込み
+  - `talkmap.html`: To Be Updated
+  - `talks.html`: Talks ページの記述をする html ファイルで、中身は _talks ディレクトリのファイル読み込み
+- _posts (_news に変えたかったが変更がちょっと大変なのでこのまま)
+  - News の内容を記述する各ファイル 
+- _research
+  - Research の内容を記述する各ファイル
+- _talks
+  - Talks の内容を記述する各ファイル
+- files
+  - 論文とか講演資料の pdf ファイルを置く場所
+- images
+  - 画像ファイルを置く場所
 
 ## Running Locally
 
@@ -29,14 +40,5 @@ When you are initially working your website, it is very useful to be able to pre
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essentials gcc make`
 
-# Maintenance 
-
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+## Acknowledgement
+This repository is based on [https://github.com/academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
