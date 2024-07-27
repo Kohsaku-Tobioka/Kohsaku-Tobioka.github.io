@@ -1,7 +1,7 @@
 ---
 title: "Higgs Physics"
-collection: publications
-permalink: /publication/higgs-physics
+collection: research
+permalink: /research/higgs-physics
 image: /images/fundamental_scales.png
 excerpt: 'Higgs is not a fermion.'
 order: 1

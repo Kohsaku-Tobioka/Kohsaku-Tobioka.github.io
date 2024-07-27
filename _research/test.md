@@ -1,7 +1,7 @@
 ---
 title: "test"
-collection: publications
-permalink: /publication/test
+collection: research
+permalink: /research/test
 excerpt: 'PUT JOURNAL INFORMATION IF APPLICABLE.'
 order: 3
 # date: 2010-10-01

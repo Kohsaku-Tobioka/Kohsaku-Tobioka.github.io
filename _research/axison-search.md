@@ -1,7 +1,7 @@
 ---
 title: "Axion Search"
-collection: publications
-permalink: /publication/axion-search
+collection: research
+permalink: /research/axion-search
 excerpt: 'PUT JOURNAL INFORMATION IF APPLICABLE.'
 order: 2
 # date: 2010-10-01
