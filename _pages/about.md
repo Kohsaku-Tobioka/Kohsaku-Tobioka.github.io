@@ -14,14 +14,10 @@ I invite you to explore my research, delve into my publications, and join me on 
 Research Interests
 ======
 1. Physics Beyond the Standard Model
-1. Phenomenology  
-
-Prospective graduate students and postdocs
-------
-Please contact me via email or simply stop by my office 506 KEEN at FSU! 
+1. Phenomenology of particle physics and cosmology
 
 
 
-Example: editing a markdown file for a talk
+Outline of fundamental issues of the universe. 
 ![Editing a markdown file for a talk](/images/fundamental_scales.png)
 
