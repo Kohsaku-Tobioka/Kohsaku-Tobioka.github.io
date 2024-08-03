@@ -9,9 +9,9 @@ author_profile: true
 
 For prospective students:
 ======
-* Graduate students at FSU seeking an advisor, read [this post](/news/student-1/). 
-* Prostive graduate students looking for a graduate program, read [this post](/news/student-1/).  
-* Undergraduate students, read this post.  
+* FSU graduate students seeking an advisor, read [this post](/news/student-2/). 
+* Prostive students looking for a graduate program, read [this post](/news/student-1/).  
+* FSU undergraduate students, read  [this post](/news/student-3/).
 
 
 Teaching

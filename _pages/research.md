@@ -5,13 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 Here is the  schech of my research history with rough categories. 
-<img src="/images/research_sketch.001.jpeg" alt="Editing a markdown file for a talk" style="width:70%;">
+<img src="/images/research_sketch.001.jpeg" alt="Editing a markdown file for a talk" style="width:80%;">
 
 
-{% if site.author.googlescholar %}
-
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can find my articles on [my inspirehep profile](https://inspirehep.net/authors/1198400)
 
 {% include base_path %}
 
