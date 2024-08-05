@@ -37,11 +37,11 @@ Work experience
 * August 2024--present: Associate Professor
   * Department of Physics, Florida State University, FL, USA
 
-* August 2018--August 2024: Assistant Professor
-  * Department of Physics, Florida State University, FL, USA
-
 * September 2018--present: Associate Researcher
   * KEK Theory Center, Japan
+
+* August 2018--August 2024: Assistant Professor
+  * Department of Physics, Florida State University, FL, USA
 
 * July 2017--August 2018: Postdoctoral Associate
   * C.N. Yang Institute for Theoretical Physics, Stony Brook University, USA

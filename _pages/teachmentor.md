@@ -10,13 +10,13 @@ author_profile: true
 For prospective students:
 ======
 * FSU graduate students seeking an advisor, read [this post](/news/student-2/). 
-* Prostive students looking for a graduate program, read [this post](/news/student-1/).  
+* Prospective students looking for a graduate program, read [this post](/news/student-1/).  
 * FSU undergraduate students, read  [this post](/news/student-3/).
 
 
 Teaching
 ======
-* 2049C [General Physics B]
+* PHY2049C [General Physics B]
   * 2018 Fall, 2019 Spring
 * PHZ5355 [High Energy Physics II]
   * 2020 Spring
