@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kohsaku Tobioka's webpage"
+title                    : "Kohsaku Tobioka's page"
 title_separator          : "-"
 name                     : &name "Kohsaku Tobioka"
 description              : &description "Theoretical Particle Physicist"
