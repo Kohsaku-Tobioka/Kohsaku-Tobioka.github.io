@@ -11,7 +11,7 @@ redirect_from:
 
 * Kohsaku Tobioka (Ph.D.)
 * Associate Professor, Department of Physics, Florida State University
-* Office: 506 in KEEN building
+* Office: 506 in KEEN building ([map](https://maps.app.goo.gl/7BGmwjZ934AEqhgdA))
 
 Full CV+publication list, [see here](/files/CV+publist_Tobiokafrom2024March.pdf). Last updated in March 2024. 
 

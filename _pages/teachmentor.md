@@ -29,8 +29,8 @@ Teaching
 Current students and postdocs
 ======
 * Mitrajyoti Ghosh, postdoc, since 2023
-* Shameran Mahmud, Graduate student, since 2019
-* Jiabao Wang, Graduate student, since 2022
+* Shameran Mahmud, graduate student, since 2019
+* Jiabao Wang, graduate student, since 2022
 
 Former mentorship
 ======
