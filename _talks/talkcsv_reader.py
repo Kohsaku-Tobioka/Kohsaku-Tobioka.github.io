@@ -28,7 +28,7 @@ venue: "{venue}"
 date: {date}
 location: "{location_formatted}"
 ---
-{text1}
+**Workshop/conference**: *{venue}*, {location_formatted}. *{text1}*
 
 {text2}
 """
@@ -61,5 +61,5 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 input_csv = os.path.join(script_dir, 'Conf_Talk_list.csv')
 
 # Process the CSV file for talk numbers 1 to 41
-for talk_number in range(38, 41):
+for talk_number in range(1, 42):
     process_csv(input_csv, str(talk_number))
