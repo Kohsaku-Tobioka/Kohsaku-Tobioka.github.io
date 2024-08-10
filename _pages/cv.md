@@ -18,10 +18,10 @@ Full CV+publication list, [see here](/files/CV+publist_Tobiokafrom2024March.pdf)
 
 Education
 ======
-* Ph.D., Physics, University of Tokyo, Japan, March 2014
+* Ph.D., Physics, University of Tokyo, Kavli IPMU, Japan, March 2014
   * Dissertation: "Aspects of Supersymmetry after LHC Run I"
 
-* M.Sc., Physics, University of Tokyo, Japan, March 2011
+* M.Sc., Physics, University of Tokyo, Kavli IPMU, Japan, March 2011
   * Thesis: "Physics of the Minimal Universal Extra Dimension model at the LHC experiments"
 
 * B.Sc., Physics, Tohoku University, Japan, March 2009
@@ -47,10 +47,14 @@ Work experience
   * C.N. Yang Institute for Theoretical Physics, Stony Brook University, USA
 
 * October 2014--June 2017: Postdoctoral Fellow (joint appointment)
-  * Tel Aviv University and Weizmann Institute of Science, Israel
+  * Tel Aviv University, Israel 
+  * Weizmann Institute of Science, Israel
 
 * April--September 2014: Postdoctoral Fellow
   * High Energy Accelerator Research Organization (KEK), Japan
+
+* April 2012--March 2014: JSPS Doctoral Course Research Fellow (DC2)
+  * University of Tokyo, Kavli IPMU, Japan
 
 Grants
 ======
