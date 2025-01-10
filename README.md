@@ -34,7 +34,21 @@
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`　
+    #New Env 
+    brew install ruby
+    Add 
+    export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+    export PATH="/opt/homebrew/lib/ruby/gems/3.2.0/bin:$PATH"
+    gem install bundler
+    brew install nodejs
+
+Memo: separate "install eventmachine" related before "bundle install". 
+(install gcc )
+(export CXX=g++-11 )
+(export CC=gcc-11)
+gem install eventmachine -- --with-cppflags="-I/usr/local/opt/openssl/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1" --with-ldflags="-L/usr/local/opt/openssl/lib"
+
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
