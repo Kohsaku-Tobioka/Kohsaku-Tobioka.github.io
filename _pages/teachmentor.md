@@ -24,12 +24,16 @@ Teaching
   * 2020 Fall, 2022 Fall, 2023 Fall
 * PHY5347 [Graduate Electrodynamics B]
   * 2021 Spring, 2023 Spring, 2024 Spring
+* [Quantum Field Theory A]
+  * 2024 Fall, 2025 Fall
+* [Quantum Field Theory B]
+  * 2025 Spring
+
 
 
 Current students and postdocs
 ======
 * Mitrajyoti Ghosh, postdoc, since 2023
-* Shameran Mahmud, graduate student, since 2019
 * Jiabao Wang, graduate student, since 2022
 
 Former mentorship
@@ -40,3 +44,4 @@ Former mentorship
   * Kare Fridell, '22-'24 (jointly with KEK)
 * Graduate students
   * Vazha Loladze, '18-'23 (postdoc at Oxford Univ, UK, supervisor: Prof. Okui)
+  * Shameran Mahmud, '19-'25
