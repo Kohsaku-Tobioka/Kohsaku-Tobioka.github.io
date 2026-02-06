@@ -41,7 +41,7 @@ Former mentorship
 * Postdocs
   * Sabyasachi Chakraborty, '18-'21 (now junior faculty at IIT Kanpur, India)
   * Tae Hyun Jung, '19-'22 (now junior faculty at IBS, South Korea)
-  * Kare Fridell, '22-'24 (jointly with KEK)
+  * Kare Fridell (joint with KEK), '22-'24 (now a postdoc at Charles Univ., Czech republic) 
 * Graduate students
   * Vazha Loladze, '18-'23 (postdoc at Oxford Univ, UK, supervisor: Prof. Okui)
-  * Shameran Mahmud, '19-'25
+  * Shameran Mahmud, '19-'25 (industry)
