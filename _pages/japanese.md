@@ -18,9 +18,10 @@ author_profile: true
 
 <img src="/images/map.png" alt="Editing a markdown file for a talk" style="width:30%;">
 
-大学院留学・訪問研究をご検討の方は気軽にメール下さい。不定期に、日本に滞在していますので、その際にお話することもできます。（2026年更新）
+大学院留学・訪問研究をご検討の方は気軽にメール下さい。不定期に、日本に滞在していますので、その際にお話することもできます。
 
-[英語版経歴](/files/CV+publist_Tobiokafrom2024March.pdf).
+[英語版経歴](/files/CV_Tobiokafrom2026Apr.pdf)
+[論文リスト](/files/Publist_Tobioka.pdf) （2026年更新）
 
 学歴
 ======

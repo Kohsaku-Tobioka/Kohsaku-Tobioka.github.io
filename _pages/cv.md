@@ -13,7 +13,7 @@ redirect_from:
 * Associate Professor, Department of Physics, Florida State University
 * Office: 506 in KEEN building ([map](https://maps.app.goo.gl/7BGmwjZ934AEqhgdA))
 
-Full CV+publication list, [see here](/files/CV+publist_Tobiokafrom2024March.pdf). 
+See also the complete [CV](/files/CV_Tobiokafrom2026Apr.pdf) and [full publication list](/files/Publist_Tobioka.pdf) （updated in April, 2026）
 
 
 Education
