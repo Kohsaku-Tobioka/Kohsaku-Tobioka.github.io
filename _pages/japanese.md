@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "日本語"
+title: "自己紹介"
 permalink: /japanese/
 author_profile: true
 
