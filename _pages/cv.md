@@ -37,7 +37,13 @@ Work experience
 * August 2024--present: Associate Professor
   * Department of Physics, Florida State University, FL, USA
 
-* September 2018--present: Associate Researcher
+* June 2026--present: Visiting Scientist
+  * Kavli IPMU, University of Tokyo, Japan
+
+* December 2025--July 2026: Guest Scholar, and JSPS Invitational Fellow (from April 2026)
+  * Yukawa Institute for Theoretical Physics, Kyoto University, Japan
+
+* September 2018--March 2026: Associate Researcher
   * KEK Theory Center, Japan
 
 * August 2018--August 2024: Assistant Professor
@@ -58,6 +64,14 @@ Work experience
 
 Grants
 ======
+* Department of Energy, USA (DE-SC0026861), 2026--2029
+  * As a Co-PI with Takemichi Okui (PI), project: "Theoretical Particle Physics Research at Florida State University"
+  * Total award \$135,000
+
+* JSPS Invitational Fellowship for Research in Japan (Long-term), FY2026
+  * Hosted by Ryuichiro Kitano, Yukawa Institute for Theoretical Physics, Kyoto University, April--July 2026
+  * Project: "Exploring Unsolved Problems in Particle Physics through Advanced Technologies"
+
 * FSU-CRC Summer Research Support, 2024
   * As a PI, project: "Mystery of Neutrinos After the Next Generation Experiments"
   * Total award \$20,000

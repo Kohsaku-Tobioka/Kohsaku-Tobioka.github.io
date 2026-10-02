@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Here is the  schech of my research history with rough categories. 
+Here is a sketch of my research history with rough categories. 
 <img src="/images/research_sketch.jpeg" alt="Editing a markdown file for a talk" style="width:80%;">
 
 

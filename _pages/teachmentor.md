@@ -21,11 +21,11 @@ Teaching
 * PHZ5355 [High Energy Physics II]
   * 2020 Spring
 * PHY5346 [Graduate Electrodynamics A]
-  * 2020 Fall, 2022 Fall, 2023 Fall
+  * 2020 Fall, 2022 Fall, 2023 Fall, 2026 Fall
 * PHY5347 [Graduate Electrodynamics B]
   * 2021 Spring, 2023 Spring, 2024 Spring
 * [Quantum Field Theory A]
-  * 2024 Fall, 2025 Fall
+  * 2024 Fall, 2025 Fall, 2026 Fall
 * [Quantum Field Theory B]
   * 2025 Spring
 
@@ -33,7 +33,6 @@ Teaching
 
 Current students and postdocs
 ======
-* Mitrajyoti Ghosh, postdoc, since 2023
 * Jiabao Wang, graduate student, since 2022
 
 Former mentorship
@@ -42,6 +41,7 @@ Former mentorship
   * Sabyasachi Chakraborty, '18-'21 (now junior faculty at IIT Kanpur, India)
   * Tae Hyun Jung, '19-'22 (now junior faculty at IBS, South Korea)
   * Kare Fridell (joint with KEK), '22-'24 (now a postdoc at Charles Univ., Czech republic) 
+  * Mitrajyoti Ghosh, '23-'26 (industry)
 * Graduate students
   * Vazha Loladze, '18-'23 (postdoc at Oxford Univ, UK, supervisor: Prof. Okui)
   * Shameran Mahmud, '19-'25 (industry)
